@@ -1,3 +1,9 @@
+<div style="text-align: center; background: linear-gradient(135deg, #2e7d32, #e91e63); padding: 30px; border-radius: 15px; color: white;">
+  <img src="https://github.com/tatianabr67-DA.png" style="width: 150px; height: 150px; border-radius: 50%; border: 4px solid white; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);">
+  <h1 style="color: white; margin-top: 15px;">Denisse Tatiana Baltazar Romero</h1>
+  <h3 style="color: #f8bbd0;">Financial & Business Data Analyst | Contadora Pública</h3>
+</div>
+
 # TATIANA BALTAZAR ROMERO
 ### Financial & Business Data Analyst | Contadora Pública
 
