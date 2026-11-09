@@ -4,9 +4,6 @@
   <h3 style="color: #f8bbd0;">Financial & Business Data Analyst | Contadora Pública</h3>
 </div>
 
-# TATIANA BALTAZAR ROMERO
-### Financial & Business Data Analyst | Contadora Pública
-
 Data Analyst especializada en transformar datos crudos y dispersos en conclusiones estratégicas y reportes ejecutivos mediante **SQL, Python, Pandas y Dashboards**. Cuento con una sólida trayectoria en auditoría y control de datos que respalda mi criterio de negocio.
 
 [🔗 Perfil de LinkedIn](https://www.linkedin.com/in/tatiana-baltazar-romero-325b2456/) | [💻 Repositorios en GitHub](https://github.com/tatianabr67-DA) | [📊 Dashboards en Tableau Public](https://public.tableau.com/app/profile/denisse.tatiana.baltazar.romero/vizzes)
