@@ -1,4 +1,4 @@
-##TATIANA BALTAZAR ROMERO
+# TATIANA BALTAZAR ROMERO
 ### Financial & Business Data Analyst | Contadora Pública
 
 Data Analyst especializada en transformar datos crudos y dispersos en conclusiones estratégicas y reportes ejecutivos mediante **SQL, Python, Pandas y Dashboards**. Cuento con una sólida trayectoria en auditoría y control de datos que respalda mi criterio de negocio.
@@ -8,6 +8,7 @@ Data Analyst especializada en transformar datos crudos y dispersos en conclusion
 ---
 
 ## 🛠️ Stack Tecnológico y Capacidades
+
 - **Herramientas de Datos:** SQL (PostgreSQL), Python (Pandas, NumPy, Matplotlib), Jupyter Notebooks.
 - **Visualización & BI:** Power BI, Tableau, MS Excel Avanzado, Google Sheets.
 - **Dominio de Negocio:** Auditoría de Calidad de Datos, KPIs Financieros, Reporting de Variaciones, Conciliaciones Complejas.
