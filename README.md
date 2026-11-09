@@ -3,7 +3,7 @@
 
 Data Analyst especializada en transformar datos crudos y dispersos en conclusiones estratégicas y reportes ejecutivos mediante **SQL, Python, Pandas y Dashboards**. Cuento con una sólida trayectoria en auditoría y control de datos que respalda mi criterio de negocio.
 
-[🔗 Perfil de LinkedIn](https://www.linkedin.com/in/tatiana-baltazar-romero-325b2456/) | [💻 Repositorios en GitHub](https://github.com/tatianabr67-DA)
+[🔗 Perfil de LinkedIn](https://www.linkedin.com/in/tatiana-baltazar-romero-325b2456/) | [💻 Repositorios en GitHub](https://github.com/tatianabr67-DA) | [📊 Dashboards en Tableau Public](https://public.tableau.com/app/profile/denisse.tatiana.baltazar.romero/vizzes)
 
 ---
 
@@ -25,6 +25,15 @@ Desarrollo en Python para la ingesta, limpieza y cruzado automático de reportes
 Evaluación del impacto en conversión y comportamiento de usuarios mediante análisis estadístico y pruebas de hipótesis.
 - **Herramientas:** Python, Pandas, Matplotlib, Estadística Aplicada.
 - [📂 Ver Proyecto en GitHub](https://github.com/tatianabr67-DA/ab-test-landing-page)
+
+---
+
+## 📈 Dashboards & Visualización Interactiva
+
+### Dashboards Ejecutivos en Tableau Public
+Colección de tableros interactivos diseñados para la monitoreización de KPIs, análisis de rendimiento de negocio y toma de decisiones.
+- **Herramientas:** Tableau Public, SQL, Excel.
+- [📊 Explorar mis Dashboards en Tableau Public](https://public.tableau.com/app/profile/denisse.tatiana.baltazar.romero/vizzes)
 
 ---
 
